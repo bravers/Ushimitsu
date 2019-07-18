@@ -1,0 +1,4 @@
+http://82.202.221.219/phpmyadmin/
+
+Логин anton
+Пароль Anton2019
